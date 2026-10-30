@@ -1,0 +1,17 @@
+# 依赖与构建产物
+node_modules/
+.pnpm-store/
+*.tgz
+
+# doctor 报告
+reports/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

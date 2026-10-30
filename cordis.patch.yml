@@ -1,0 +1,5 @@
+# dsh-lean4-prover bundle patch
+# 由 dsh-plugin-doctor install 在 profile 启动合并层插入本插件行
+- insert:
+    - id: lean4-prover
+      name: 'dsh-lean4-prover'
