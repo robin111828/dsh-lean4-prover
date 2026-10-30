@@ -1,6 +1,6 @@
 {
   "name": "dsh-lean4-prover",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DSH plugin: lean4-prover — Lean 4 / Mathlib 自动形式化证明技能（双层模型路由 + 并行验证），以 bundled skill 形式注册到会话技能目录。",
   "type": "module",
   "main": "lib/index.js",
